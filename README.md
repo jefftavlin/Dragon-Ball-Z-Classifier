@@ -4,5 +4,5 @@
 - After collecting the images, transfer learning was applied using ImageNet weights to classify each character.
 - Using VGG16 architecture, accuracy reached 92% on test set.
 
-![Goku](https://github.com/jefftavlin/Dragon-Ball-Z-Classifier/blob/main/Son_Goku_YoungAdult.PNG)![Vegeta](https://github.com/jefftavlin/Dragon-Ball-Z-Classifier/blob/main/Vegeta_Dragon_Ball.jpg)
+![Goku](https://github.com/jefftavlin/Dragon-Ball-Z-Classifier/blob/main/Son_Goku_YoungAdult.PNG)![Vegeta](https://github.com/jefftavlin/Dragon-Ball-Z-Classifier/blob/main/Vegeta_Dragon_Ball.jpg)![Piccolo](https://github.com/jefftavlin/Dragon-Ball-Z-Classifier/blob/main/piccolo_test.jpg)
 
